@@ -6,6 +6,7 @@
 - 📬 O meu discord é: GuiTava#7892
 - 😄 Pronome: ele/dele
 - ⚡ Fato curioso: Adoro matemática, e sou medalista de ouro na ONC ( 8º e 9º ano) e na ONEE ( 8º e 9º ano)
+- 🎓 Eu tenho certificados de cursos que eu fiz no repositório "Certificados"
 - 📕 O meu nível de inglês é mediano, mas estou fazendo cursos para aprimorá-lo
 
 <div align="center">

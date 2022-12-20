@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Guilherme Carvalho Tavaniello
 
-- 🔭 Atualmente atuando no back-end
+- 🔭 Atualmente atuando no front-end
 - 🌱 Aprendendo algoritimos e Python
 - 👯 Procuro ajudar em qualquer projeto, para obter mais conhecimento
 - 📬 O meu discord é: GuiTava#7892

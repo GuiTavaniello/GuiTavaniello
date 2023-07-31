@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Guilherme Carvalho Tavaniello
 
-- 🔭 Atualmente atuando no front-end
-- 🌱 Aprendendo algoritimos e Python
+- 🔭 Atualmente atuando na robótica
+- 🌱 Aprendendo C++ e eletrônica
 - 👯 Procuro ajudar em qualquer projeto, para obter mais conhecimento
 - 📬 O meu discord é: GuiTava#7892
 - 😄 Pronome: ele/dele

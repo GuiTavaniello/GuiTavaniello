@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Guilherme Carvalho Tavaniello
 
-- 🔭 Atualmente atuando na robótica
+- 🔭 Atualmente atuando em ciência de dados
 - 🌱 Aprendendo o que me da vontade (especialmente SQL e Python)
 - 👯 Procuro ajudar em qualquer projeto, para obter mais conhecimento
 - 📬 O meu discord é: guitava08

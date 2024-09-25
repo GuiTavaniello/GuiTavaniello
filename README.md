@@ -4,10 +4,9 @@
 - 🌱 Aprendendo o que me da vontade (especialmente SQL e Python)
 - 👯 Procuro ajudar em qualquer projeto, para obter mais conhecimento
 - 📬 O meu discord é: guitava08
-- 😄 Pronome: ele/dele
 - ⚡ Fato curioso: Adoro matemática, e sou medalista de ouro na ONC ( 8º e 9º ano) e na ONEE ( 8º e 9º ano)
 - 🎓 Eu tenho certificados de cursos que eu fiz no repositório "https://github.com/GuiTavaniello/Certificados"
-- 📕 O meu nível de inglês é mediano, mas estou fazendo cursos para aprimorá-lo
+- 📕 O meu nível de inglês é avançado, mas estou fazendo cursos para aprimorá-lo mais ainda
 
 <div align="center">
   <a href="https://github.com/GuiTavaniello">
